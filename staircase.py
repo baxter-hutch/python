@@ -1,4 +1,4 @@
-# Complete the staircase function below.
+# Creates a right-ascending staircase with '#'
 def staircase(n):
     cor_x = 0
     cor_y = 0 #cor_y = 1: top
